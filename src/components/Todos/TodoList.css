@@ -1,0 +1,18 @@
+ul li{
+    background-color: #9393ff;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.item_list{
+    flex: 1 1 auto;
+}
+ul button{
+    background: darkblue;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 15px;
+}

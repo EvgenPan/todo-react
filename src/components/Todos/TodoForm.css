@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    margin-bottom: 80px;
+}
+form input{
+    border: 2px solid #1515fd;
+    height: 40px;
+    border-radius: 5px;
+    width: 100%;
+    margin-right: 5px;
+}
+form input:focus-visible{
+    border: darkblue;
+}
+form button{
+    border: none;
+    background: #1515fd;
+    color: #fff;
+    padding: 0 20px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
